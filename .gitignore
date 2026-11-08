@@ -1,0 +1,6 @@
+build/
+saves/
+self-test-results.txt
+*.o
+*.obj
+*.pdb
